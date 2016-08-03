@@ -30,8 +30,9 @@ img {
 }
 
 .intro {
-  width: 80%;
-  margin-left: 10%;
+
+  width: 70%;
+  margin-left: 15%;
   font-size: 24px;
   font-family: monospace;
 }
@@ -41,6 +42,7 @@ img {
   border: solid 2px white;
   background-color:#f2f2f2;
   margin: 20px;
+
 }
 
 .animal h1 {
@@ -68,4 +70,16 @@ p {
   line-height: 17px;
   padding: 20px;
   color: #737373;
+}
+
+footer i {
+  cursor: pointer;
+  font-size: 24px;
+  display: inline-block;
+  margin-left: 50px;
+}
+
+footer {
+  margin-left: 36%;
+  margin-bottom: 10%;
 }
